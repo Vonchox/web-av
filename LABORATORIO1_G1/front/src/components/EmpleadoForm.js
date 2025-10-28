@@ -125,5 +125,5 @@ export default function EmpleadoForm({ empleado, onGuardado, onCancelar }) {
         </form>
       </fieldset>
     </div>
-  );
+  );//cambios
 }
